@@ -1,9 +1,9 @@
-.topbar {
+.top-logo {
   position: fixed;
   top: 0;
-  width: 100%;
-  overflow: hidden;
-  background-color: #e8ddca;
+  right: 0;
+  opacity: 0.55;
+  background-color: #e9ebf0;
 }
 
 .menu-button {
