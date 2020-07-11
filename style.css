@@ -4,7 +4,7 @@
   right: 0;
   opacity: 0.55;
   background-color: #e9ebf0;
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 .menu-button {
@@ -12,7 +12,8 @@
   bottom: 0;
   background-color: #e9ebf0;
   opacity: 0.55;
-  border-radius: 4px;
+  border-color: none;
+  border-radius: 8px;
 }
 
 /* reminder margin: 30px */
