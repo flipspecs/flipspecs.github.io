@@ -6,4 +6,12 @@
   background-color: #e8ddca;
 }
 
+.menu-button {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background-color: #a7a7a8;
+  opacity: 0.75;
+}
+
 /* reminder margin: 30px */
